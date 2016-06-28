@@ -7,13 +7,13 @@
  **********************************************************************************************/
 /** Map relative paths to URLs. */
 const map: any = {
-   'firebase': 'vendor/firebase/firebase.js',
+  'firebase': 'vendor/firebase/firebase.js',
   'angularfire2': 'vendor/angularfire2'
 };
 
 /** User packages configuration. */
 const packages: any = {
-   angularfire2: {
+  angularfire2: {
     defaultExtension: 'js',
     main: 'angularfire2.js'
   }
